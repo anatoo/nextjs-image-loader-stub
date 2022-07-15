@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-image-loader-stub",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "Kubota Mitsunori<anatoo.jp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anatoo/nextjs-image-loader-stub.git"
+  },
+  "dependencies": {
+    "image-size": "^1.0.2",
+    "loader-utils": "^3.2.0"
+  }
+}
